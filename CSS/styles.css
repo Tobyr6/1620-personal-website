@@ -1,9 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@1,300&display=swap');
 
-body {
-    background-color: lightblue;
-  }
+
+body { 
+font-family: 'Open Sans Condensed', sans-serif;
+background-color: plum;
+bottom: 100%;
+}
   
   h1 {
-    color: purple;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: black;
     margin-left: 20px;
   }
+
+
+
+
+header{
+  font-family: 'Open Sans Condensed', sans-serif;
+  background-color: #002642;
+  width: 100%;
+  border-style: solid;
+}
+h1{
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: whitesmoke;
+}
+
+nav{
+  
+  background-color: #002642;
+  border-style: solid;
+  position: absolute;
+  text-align: left;
+  top: 60%;
+  left: 4%;
+}
+
+nav ul{
+  margin: 0%;
+  padding: 0%;
+  list-style: none;
+}
+
+nav li{
+  margin-bottom: 1em;
+  margin-left: 1em;
+}
+
+nav a{
+  color: whitesmoke;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+
+  
+  
