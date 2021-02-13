@@ -9,7 +9,7 @@ bottom: 100%;
   
   h1 {
     font-family: 'Open Sans Condensed', sans-serif;
-    color: black;
+    color: whitesmoke;
     margin-left: 20px;
   }
 
@@ -18,6 +18,7 @@ bottom: 100%;
 
 header{
   font-family: 'Open Sans Condensed', sans-serif;
+  color: whitesmoke;
   background-color: #002642;
   width: 100%;
   border-style: solid;
